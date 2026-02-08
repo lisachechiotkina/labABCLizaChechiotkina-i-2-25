@@ -23,4 +23,5 @@ int main() {
 
     cout << "Десятичное значение: " << decimal << endl;
     return 0;
+
 }
